@@ -17,4 +17,4 @@ In the project folder type `npm start` to spin a local server with live reloadin
 When you're ready to deploy, you can generate a production-ready build by issuing
 the `npm run build` command. You will have the generated assets inside the `dist` folder.
 
-This project used the [static-boilerplate](https://github.com/ericorruption/static-boilerplate) project :+1:
+This project used the [static-boilerplate](https://github.com/ericorruption/static-boilerplate) project as a quick start :+1:
