@@ -4,6 +4,8 @@ A HTML audio API example.
 
 ### [See a demo here!](https://allanesquina.github.io/synth-from-hell/)
 
+![synth-from-hell](https://allanesquina.github.io/synth-from-hell/img/screenshot.png)
+
 ## Dependencies
 [Node.js v8.7.0+](https://nodejs.org) (Preferably through the use of [NVM](https://github.com/creationix/nvm))
 
