@@ -2,6 +2,8 @@
 
 A HTML audio API example.
 
+### [See a demo here!](https://allanesquina.github.io/synth-from-hell/)
+
 ## Dependencies
 [Node.js v8.7.0+](https://nodejs.org) (Preferably through the use of [NVM](https://github.com/creationix/nvm))
 
