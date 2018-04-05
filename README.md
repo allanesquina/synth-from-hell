@@ -1,6 +1,6 @@
-# Static Boilerplate [![Greenkeeper badge](https://badges.greenkeeper.io/ericorruption/static-boilerplate.svg)](https://greenkeeper.io/)
+# Synth From Hell
 
-This is how I roll.
+A HTML audio API example.
 
 ## Dependencies
 [Node.js v8.7.0+](https://nodejs.org) (Preferably through the use of [NVM](https://github.com/creationix/nvm))
@@ -15,12 +15,3 @@ In the project folder type `npm start` to spin a local server with live reloadin
 When you're ready to deploy, you can generate a production-ready build by issuing
 the `npm run build` command. You will have the generated assets inside the `dist` folder.
 
-## Contributing
-Fork it. Branch it. Push it. PR it.
-
-## TODO
-* image optimization
-* enforce html style
-* static asset hashing
-* inline critical css
-* continuous integration with Travis CI
